@@ -1,4 +1,4 @@
-## Objectives
+## Readme
 This is a simple python project write in Python 3.7.3 with Spyder 4.1.2. The project is a simple Pong game with the module turtle.  
 I like to improve this code beacause I based in a tutorial of the user freeCodeCamp.org, please visite his channel and subscripe to him.  
 
