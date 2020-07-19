@@ -76,6 +76,9 @@ def paddle_b_down():
     y = paddle_b.ycor()
     y -= 20
     paddle_b.sety(y)
+    
+def exit_to_the_program():
+    t.bye()
 
 
 # Keyboard biding
@@ -84,6 +87,7 @@ window.onkeypress(paddle_a_up, "w")
 window.onkeypress(paddle_a_down, "s")
 window.onkeypress(paddle_b_up, "Up")
 window.onkeypress(paddle_b_down, "Down")
+window.onkeypress(exit_to_the_program, "e")
 
 
 # Main game loop
